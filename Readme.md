@@ -1,15 +1,7 @@
-# Computer Graphics Final Projct (VTK.js) Report
-
-## Students:
-
-- Anas Mohamed Fawzy - Sec.(1) - B.N.(16)
-- Omar Ahmed Mansour - Sec.(2) - B.N.(1)
-- Muhammad Ahmad AbdAl-Alim AbdAl-Aziz - Sec.(2) - B.N.(10)
-- Mohamed Mansour El-Sabbagh - Sec.(2) - B.N.(20)
-
+# Medical Images Viewer
 ## Introduction:
 
-In this project we used VTK.js & HTML with React to build a web page that displays two views independently:
+In this project we used VTK.js & HTML with React to build a web page that displays DICOM Images:
 
 - Surface Rendering:
 
